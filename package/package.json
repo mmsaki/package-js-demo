@@ -1,0 +1,22 @@
+{
+  "name": "is-wds",
+  "version": "1.0.0",
+  "description": "Is the string wds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsaki/package-js-demo.git"
+  },
+  "keywords": [
+    "wds"
+  ],
+  "author": "meek msaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmsaki/package-js-demo/issues"
+  },
+  "homepage": "https://github.com/mmsaki/package-js-demo#readme"
+}
